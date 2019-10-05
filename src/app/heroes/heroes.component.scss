@@ -3,6 +3,9 @@
   list-style-type: none;
   padding: 0;
   width: 15em;
+  a {
+    text-decoration: none;
+  }
 
   li {
     cursor: pointer;
